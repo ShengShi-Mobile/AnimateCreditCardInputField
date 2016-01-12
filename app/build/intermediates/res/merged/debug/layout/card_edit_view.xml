@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/input_field"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/ce_card_brand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:contentDescription="@string/credit_card_brand"
+        android:scaleType="centerInside"
+        android:src="@drawable/cc_default" />
+
+    <ViewFlipper
+        android:id="@+id/ce_view_flipper"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="5dip"
+        android:layout_weight="100.00"
+        android:background="@null" >
+
+        <EditText
+            android:id="@+id/ce_card_number_field"
+            style="@style/CC_EditText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:hint="@string/card_number_hint" >
+        </EditText>
+
+        <LinearLayout
+            android:id="@+id/ce_card_details"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/ce_last_four_digits_field"
+                style="@style/CC_EditText"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="4.0"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:hint="@string/last_four_digits_field" />
+
+            <EditText
+                android:id="@+id/ce_expiration_date_field"
+                style="@style/CC_EditText"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="8.0"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:hint="@string/expiration_date_hint"
+                android:maxLength="7"
+                android:nextFocusRight="@+id/ce_postal_field" />
+
+            <EditText
+                android:id="@+id/ce_postal_field"
+                style="@style/CC_EditText"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="5.0"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:hint="@string/postal_hint"
+                android:maxLength="5"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ViewFlipper>
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnimateCreditCardInputField</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="credit_card_brand">credit card brand</string>
+   <string name="card_number_hint">1234 5678 9012 3456</string>
+   <string name="last_four_digits_field">9999</string>
+   <string name="expiration_date_hint">MM/YYYY</string>
+   <string name="cvv_hint">CVV</string>
+   <string name="postal_hint">ZIP</string>
+
+</resources>

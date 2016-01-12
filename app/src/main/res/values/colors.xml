@@ -1,0 +1,7 @@
+<resources>
+
+    
+    <color name="text_input_field_color">#ff000000</color>
+    <color name="text_input_field_hint_color">#ff7c7676</color>
+
+</resources>

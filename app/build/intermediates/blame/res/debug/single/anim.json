@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\card_editor_details_in.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\src\\main\\res\\anim\\card_editor_details_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\card_editor_number_out.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\src\\main\\res\\anim\\card_editor_number_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\form_hold.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\src\\main\\res\\anim\\form_hold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\form_exit.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\src\\main\\res\\anim\\form_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\card_editor_number_in.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\src\\main\\res\\anim\\card_editor_number_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\form_enter.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\src\\main\\res\\anim\\form_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\build\\intermediates\\res\\merged\\debug\\anim\\card_editor_details_out.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\AnimateCreditCardInputField\\app\\src\\main\\res\\anim\\card_editor_details_out.xml"
+    }
+]
